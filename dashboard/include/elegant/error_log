@@ -1,0 +1,1 @@
+[05-Dec-2020 15:51:23 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/kvief6z2/livestats.xyz/friday/dashboard/include/elegant/index.php on line 8

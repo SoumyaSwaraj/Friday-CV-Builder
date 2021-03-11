@@ -1,0 +1,7 @@
+[05-Dec-2020 12:28:34 America/Chicago] PHP Warning:  include(nav.php): failed to open stream: No such file or directory in /home3/kvief6z2/livestats.xyz/friday/dashboard/dashboard.php on line 8
+[05-Dec-2020 12:28:34 America/Chicago] PHP Warning:  include(nav.php): failed to open stream: No such file or directory in /home3/kvief6z2/livestats.xyz/friday/dashboard/dashboard.php on line 8
+[05-Dec-2020 12:28:34 America/Chicago] PHP Warning:  include(): Failed opening 'nav.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home3/kvief6z2/livestats.xyz/friday/dashboard/dashboard.php on line 8
+[05-Dec-2020 14:37:37 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/kvief6z2/livestats.xyz/friday/dashboard/action.php on line 10
+[05-Dec-2020 14:37:37 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/kvief6z2/livestats.xyz/friday/dashboard/action.php:10) in /home3/kvief6z2/livestats.xyz/friday/dashboard/action.php on line 21
+[05-Dec-2020 14:37:37 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/kvief6z2/livestats.xyz/friday/dashboard/action.php:10) in /home3/kvief6z2/livestats.xyz/friday/dashboard/action.php on line 27
+[06-Dec-2020 14:17:57 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/kvief6z2/livestats.xyz/friday/dashboard/action.php on line 228
